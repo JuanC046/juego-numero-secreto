@@ -16,7 +16,7 @@
 // Definición de variables
 
 // Límite superior para el número aleatorio
-let limiteSuperior = 5;
+let limiteSuperior = 20;
 
 // Máximo de juegos posibles
 let maxJuegos = Math.floor(limiteSuperior / 2);
